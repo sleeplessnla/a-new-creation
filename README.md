@@ -1,11 +1,7 @@
-# a-new-creation
-this project aims at creating program that helps the designer to shorten the process of designing new and more efficient energy systems.
-things to consider in this program are things such as material used, calculations used in determing the best material to use,database range of the type of material, effectiveness of the material, what other material may have a negative effect on material used that determines whether or not it would chemically bond,.....
-this software must be able to make calculations based on a number of questions and then a selection of the material is made from the database.
-once the material is selected the calculations are automatically made. (Affects from other aspects are included in the output.) These affects are things that may act upon the system causing it to have negative effects.
-the end user will have the option of selecting other material with similar aspects for a better output or staying with the initial selection.
-once the choice is made the material along with its qualities are made known to the user.
-material choices are a list of material that is to be exported from an external source.
-the most material choices should be the max amount of material that can be exported from matweb and imported into the program.
-Material list will be of wide range of characteristics for the creation of different products.
-
+Operation of the program
+This program is for designers and is made to shorten the time of product and system design.
+It also makes good use of time taken to increase the efficiency of the product or system.
+In order to do so the program must perform certain tasks in a specific manner.
+These tasks are as follows: A list of material from a database is presented to the user.
+The user can choose two or more of the material from the database.
+The program then performs the necessary calculations on the material to determine whether the material chosen were a good match.
